@@ -1,6 +1,10 @@
 By default Next.js pre renders a page. This means that Next.js  runs the javascipt and generates pure HTML on server side and sends that file to client side. This allows the browsers and client systems to generate pages very fast.
 
+
+
 Next.js has two types for rendering depending on the requirements. 
+
+
 
 Static rendering: The page is generated at build time and will be used on each request.
 
