@@ -2,5 +2,10 @@ Artifical Inteeligence can be defined as Engineering and science of making Intel
 
 There are two broad types of Machine Learning.
 Supervised Learning: Supervised learning is the machine learning task of learning a function that maps an input to an output based on example input-output pairs.
-In the sense, that through the example data the algorith will learn to map inputs to a outputs
+In the sense, that through the example data the algorith will learn to map inputs to a outputs.
+
+There afr etwo types of Supervised learning:
+Regression problem: where the output is real valued function
+Classification: Where the output is discrete value.
+
 Unsupervised learning:Unsupervised learning is a type of machine learning in which the algorithm is not provided with any pre-assigned labels or scores for the training data. As a result, unsupervised learning algorithms must first self-discover any naturally occurring patterns in that training data set
